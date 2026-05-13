@@ -1,0 +1,24 @@
+.button {
+    background-color: grey;
+    display:inline-block;
+    padding: 10px 10px;
+    margin: 20px;
+    border-radius: 50px;
+}
+
+.button-holder {
+    background-color: lightgrey;
+    display: inline-block;
+}
+
+.draft {
+    background-color: grey;
+}
+
+.sent {
+    background-color: blue;
+}
+
+.paid {
+    background-color: green;
+}
